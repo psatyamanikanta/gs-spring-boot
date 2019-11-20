@@ -12,7 +12,7 @@ variables:
   azureSubscription: '3bf5f000-c607-417f-afe8-093efbb1950f'
   
   # Web app name
-  webAppName: 'java-spring-boot'
+  webAppName: 'provokeangularapp'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
