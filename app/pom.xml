@@ -54,7 +54,7 @@
                     <execution>
                         <goals>
                             <goal>integration-test</goal>
-                            <goal>verify</goal>
+                            <goal>verify org.sonarsource.scanner.maven:sonar</goal>
                         </goals>
                     </execution>
                 </executions>
