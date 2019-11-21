@@ -35,13 +35,12 @@
 
     <properties>
         <java.version>1.8</java.version>
-    </properties>
-    <properties>
-  <sonar.projectKey>rushireddy143_spring-framework-petclinic</sonar.projectKey>
+          <sonar.projectKey>rushireddy143_spring-framework-petclinic</sonar.projectKey>
   <sonar.organization>rushireddy143</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <sonar.login>00d7ea53f9964d8348f6eda3829ff0da7d8d46de</sonar.login>
-</properties>
+    </properties>
+ 
 
     <build>
         <plugins>
