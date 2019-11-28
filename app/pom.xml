@@ -34,6 +34,12 @@
     </dependencies>
 
     <properties>
+              <properties>
+  <sonar.projectKey>psatyamanikanta_gs-spring-boot</sonar.projectKey>
+  <sonar.organization>psatyamanikanta</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>333f0aae6ebe3e224e18f52902b18714c07b2782</sonar.login>
+</properties>
         <java.version>1.8</java.version>
           <sonar.projectKey>rushireddy143_spring-framework-petclinic</sonar.projectKey>
   <sonar.organization>rushireddy143</sonar.organization>
