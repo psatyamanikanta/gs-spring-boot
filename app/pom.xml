@@ -33,29 +33,8 @@
         <!-- end::tests[] -->
     </dependencies>
 
-    <properties>
-              <properties>
-  <sonar.projectKey>psatyamanikanta_gs-spring-boot</sonar.projectKey>
-  <sonar.organization>psatyamanikanta</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>333f0aae6ebe3e224e18f52902b18714c07b2782</sonar.login>
-</properties>
-        <java.version>1.8</java.version>
-          <sonar.projectKey>rushireddy143_spring-framework-petclinic</sonar.projectKey>
-  <sonar.organization>rushireddy143</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>00d7ea53f9964d8348f6eda3829ff0da7d8d46de</sonar.login>
-    </properties>
- 
-
     <build>
         <plugins>
-  
-      <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>3.6.1.1688</version>
-      </plugin>
  
             <plugin>
                 <groupId>org.springframework.boot</groupId>
