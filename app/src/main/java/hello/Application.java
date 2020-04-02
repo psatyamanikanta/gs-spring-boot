@@ -27,7 +27,7 @@ public class Application {
                 System.err(beanName);
             }
 
-        };
+        }
     }
 
 }
